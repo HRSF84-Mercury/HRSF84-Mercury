@@ -13,7 +13,8 @@ module.exports = {
       'profile': './loadProfile.js',
       'events': './loadEvents.js',
       'event-details': './loadEventDetails.js',
-      'superlatives': './loadSuperlatives.js'
+      'superlatives': './loadSuperlatives.js',
+      'superlative': './loadSuperlative.js'
     }
   ,
   output: {
